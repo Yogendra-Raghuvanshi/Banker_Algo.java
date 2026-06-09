@@ -1,1 +1,1 @@
-Banker's Algorithm implementation using JAVA and JAVA Swing
+Banker's Algorithm implementation using JAVA and JAVA Swing. 
